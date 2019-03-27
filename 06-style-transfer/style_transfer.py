@@ -107,7 +107,7 @@ class VGGNet:
 
 
 
-vgg16_npy_pyth = './vgg16.npy'
+vgg16_npy_pyth = './data/vgg16.npy'
 content_img_path = './source_images/gugong.jpg'
 style_img_path = './source_images/xingkong.jpeg'
 
